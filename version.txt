@@ -1,3 +1,4 @@
-version=1.10.0
-url=https://github.com/YEJUN678/CodingAI/releases/download/CodingAIBeta2/Coding-AI-Priview2-Setup6.exe
+version=1.20.0
+tag=CodingAIBeta2
+path=Coding-AI-Priview2-Setup6.exe
 notes=UI 개선 완료 및, 버그 수정. 더 많은 설정과, 더 많은 사용자 인터페이스를 경험해보세요!
