@@ -1,4 +1,4 @@
 version=1.21.0
-tag=CodingAIBeta3
-path=Coding-AI-Priview3-Setup6.exe
+tag=CodingAIBeta3.1
+path=Coding-AI-Priview3.1-Setup6.exe
 notes=UI 개선 완료 및 업데이트 카드 UI, 및 다운로드 퍼센트 개선! (주의사항: 설치 초반에 데이터를 유지하려면 아니요를 누르시고, 설치 되기 전에 끄면 중요 파일이 사라질 수 있습니다.)
