@@ -1,4 +1,4 @@
 version=1.20.0
-tag=CodingAIBeta2
-path=Coding-AI-Priview2-Setup6.exe
-notes=UI 개선 완료 및, 버그 수정. 더 많은 설정과, 더 많은 사용자 인터페이스를 경험해보세요!
+tag=CodingAIBeta3
+path=Coding-AI-Priview3-Setup6.exe
+notes=UI 개선 완료 및, 버그 수정. 더 많은 설정과, 더 많은 사용자 인터페이스를 경험해보세요! (주의사항: 설치 초반에 데이터를 유지하려면 아니요를 누르시고, 설치 되기 전에 끄면 중요 파일이 사라질 수 있습니다.)
