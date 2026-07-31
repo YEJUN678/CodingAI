@@ -1,7 +1,6 @@
-version=1.23.0
-tag=CodingAIBeta3.3
-blue_path=Coding-AI-Priview3.2-blue-Setup6.exe
-dark_path=Coding-AI-Priview3.2-dark-Setup6.exe
-default_path=Coding-AI-Priview3.2-default-Setup6.exe
-path=Coding-AI-Priview3.2-blue-Setup6.exe
-notes=UI 개선 완료 및, 더 자유로운 사용자 인터페이스를 위해 3 에디션으로 분할!
+version=1.24.0
+tag=CodingAIBeta4
+blue_path=Coding-AI-Priview4-blue-Setup6.exe
+dark_path=Coding-AI-Priview4-dark-Setup6.exe
+path=Coding-AI-Priview4-blue-Setup6.exe
+notes=UI 개선 완료 및, 버그 수정, 더 자유롭게!
